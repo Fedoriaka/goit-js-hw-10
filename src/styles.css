@@ -1,0 +1,32 @@
+.cat-info {
+  margin-top: 20px;
+  display: flex;
+  width: 800px;
+  background-color: antiquewhite;
+}
+
+img {
+  margin: auto;
+}
+
+.text {
+  padding-left: 20px;
+  margin: auto;
+}
+
+.breed-select {
+  margin-top: 40px;
+  height: 30px;
+  width: 160px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hidden {
+  display: none;
+}/*# sourceMappingURL=styles.css.map */
